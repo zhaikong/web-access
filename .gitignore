@@ -1,3 +1,5 @@
 .DS_Store
 *.log
 references/site-patterns/*.md
+config.bat
+node_modules
